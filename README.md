@@ -7,4 +7,4 @@
 ###### Books
 1. [Tutorial Point](https://www.tutorialspoint.com/cplusplus/index.htm)
 ###### Courses
-)1. [การเขียนโปรแกรมแบบ OOP (Object Oriented Programming)](https://github.com/java2017/Programming-Contest/blob/master/codes/Sample1.cpp
+)1. [การเขียนโปรแกรมแบบ OOP (Object Oriented Programming](https://github.com/java2017/Programming-Contest/blob/master/codes/Sample1.cpp
