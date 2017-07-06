@@ -13,14 +13,14 @@ public:
     ~Pointer1(){};
     void init() {
         int i;
-        Int_ptr = data;
+        Int_ptr = &data[0];
         for (i=0;i<10;i++) {
             *Int_ptr = (i+1);
             Int_ptr++;
         }
     }
     void display() {
-        Int_ptr = data;
+        Int_ptr = &data[0];
         for (int i=0;i<10;i++) {
             cout << (*Int_ptr) << endl;
             Int_ptr++;
