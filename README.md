@@ -13,3 +13,4 @@
     .. Members (Attributes, Methods)
     .. Destructor
 1. [Pointer ในภาษา C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm)
+1. [จัดเก็บข้อมูลใน Array 10 ตัว โดยใช้ Pointer](url)
