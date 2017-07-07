@@ -12,7 +12,7 @@
     * Constructor คือ ฟังก์ชันที่ชื่อเดียวกันกับคลาส มีหน้าที่กำหนดค่าเริ่มต้นให้กับ Attributes
     * Members (Attributes, Methods) คือสมาชิกในคลาส โดยมีสองแบบ คือ แอดทริบิวส์ หรือตัวแปรในคลาส กับ เมดธอท คือฟังก์ชันที่ใช้ทำงานในคลาส
     * Destructor คือต้วล้างหน่วยความจำของคลาส โดยมี ~ นำหน้าคลาส
-1. [Pointer ในภาษา C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm)
+1. [Pointer ในภาษา C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm) คือตัวชี้ตำแหน่งหน่วยความจำ สามารถชี้ไปได้ทุกที่
 1. [จัดเก็บข้อมูลใน Array 10 ตัว โดยใช้ Pointer](https://github.com/java2017/Programming-Contest/blob/master/codes/Pointer1.cpp)
 
     * จากโปรแกรมตัวอย่าง Array 10 ตัว จะเรียงจาก 1-10 ให้ลองใช้ Pointer ชี้ไปที่ ตัวที่ 10 แล้ววิ่งย้อนกลับเพื่อแสดงเลข 10 - 1 แทน
