@@ -6,6 +6,10 @@
 1. [C++ gcc Online](http://rextester.com/l/cpp_online_compiler_gcc)
 ###### Books
 1. [Tutorial Point](https://www.tutorialspoint.com/cplusplus/index.htm)
+1. [Competitive Programmer Handbook 2017](https://cses.fi/book.pdf)
+1. [Art of Programming Contest](https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf)
+1. [Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+1. [Programming Challenges](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
 
 ##### Courses
 ###### ครั้งที่ 1 วันที่ 9 กรกฏาคม 2560
