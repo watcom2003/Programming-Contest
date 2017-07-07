@@ -20,4 +20,4 @@
     * จงพิมพ์เฉพาะเลขคี่ โดยใช้ Pointer อ้างอิงตำแหน่ง
     * จงพิมพ์จำนวนเฉพาะ โดยใช้ Pointer อ้างอิงตำแหน่ง [ตัวอย่างการตรวจสอบ Prime number](https://www.programiz.com/cpp-programming/examples/prime-function)
     * จงจัดเก็บชื่อของเราเองใน Array char ขนาด 40 ตัว แล้วเปลื่ยนเป็นชื่อเพื่อนโดยใช้ Pointer ในการเปลี่ยน
-)1. [การจัดเก็บข้อความในรูปแบบ Char[] / String](url)
+1. [การจัดเก็บข้อความในรูปแบบ Char[] / String](url)
