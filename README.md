@@ -21,6 +21,11 @@
     * Constructor คือ ฟังก์ชันที่ชื่อเดียวกันกับคลาส มีหน้าที่กำหนดค่าเริ่มต้นให้กับ Attributes
     * Members (Attributes, Methods) คือสมาชิกในคลาส โดยมีสองแบบ คือ แอดทริบิวส์ หรือตัวแปรในคลาส กับ เมดธอท คือฟังก์ชันที่ใช้ทำงานในคลาส
     * Destructor คือต้วล้างหน่วยความจำของคลาส โดยมี ~ นำหน้าคลาส สัญลักษณ์ ~ ได้มาจากการกด Shift + ตัวเปลี่ยนภาษา ค้างไว้
+    * [Class access modifiers](https://www.tutorialspoint.com/cplusplus/cpp_class_access_modifiers.htm)
+    * [Inheritance](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
+    * [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm)
+    * [Polymorphism](https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm)
+    * [Interfaces](https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm)
     * [รายละเอียดเกี่ยวกับคลาส](https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm)
 1. [Pointer ในภาษา C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm) คือตัวชี้ตำแหน่งหน่วยความจำ สามารถชี้ไปได้ทุกที่ แต่จำเป็นต้องมีที่จัดเก็บข้อมูลในหน่วยความจำก่อนจะชี้ไปได้ ไม่เช่นนั้นจะได้ข้อมูลขยะที่ใช้การไม่ได้ หากชี้ไปมั่ว ๆ
 1. [Pointers in details](https://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html#zz-2)
