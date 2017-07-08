@@ -24,6 +24,7 @@
     * [รายละเอียดเกี่ยวกับคลาส](https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm)
 1. [Pointer ในภาษา C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm) คือตัวชี้ตำแหน่งหน่วยความจำ สามารถชี้ไปได้ทุกที่ แต่จำเป็นต้องมีที่จัดเก็บข้อมูลในหน่วยความจำก่อนจะชี้ไปได้ ไม่เช่นนั้นจะได้ข้อมูลขยะที่ใช้การไม่ได้ หากชี้ไปมั่ว ๆ
 1. [Pointer Usage](https://www.codeproject.com/Articles/11560/Pointers-Usage-in-C-Beginners-to-Advanced) / [Source Codes](https://github.com/java2017/Programming-Contest/tree/master/codes/pointer)
+1. [จงทำ Quiz เรื่อง Pointer](http://digital.cs.usu.edu/~bugs/quizzes/pointers.html)
 1. [จัดเก็บข้อมูลใน Array 10 ตัว โดยใช้ Pointer](https://github.com/java2017/Programming-Contest/blob/master/codes/Pointer1.cpp)
 
     * จากโปรแกรมตัวอย่าง Array 10 ตัว จะเรียงจาก 1-10 ให้ลองใช้ Pointer ชี้ไปที่ ตัวที่ 10 แล้ววิ่งย้อนกลับเพื่อแสดงเลข 10 - 1 แทน
