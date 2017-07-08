@@ -39,4 +39,5 @@
 
 ###### ครั้งที่ 3 วันที่ 23 กรกฏาคม 2560
 1. [C++ STL](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp9_STL.html)
-1. [Data Structure](http://cplusplus.happycodings.com/data-structures/)
+1. [Data Structure#1](http://cplusplus.happycodings.com/data-structures/)
+1. [Data Structure#2](http://www.sourcetricks.com/p/data-structures-using-c.html#.WWCXtYjyhPa)
