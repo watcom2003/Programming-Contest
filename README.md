@@ -17,11 +17,11 @@
 ##### Courses
 ###### ครั้งที่ 1 วันที่ 9 กรกฏาคม 2560
 1. [การเขียนโปรแกรมแบบ OOP (Object Oriented Programming](https://github.com/java2017/Programming-Contest/blob/master/codes/Sample1.cpp)
-    ในการเขียนคลาสในภาษา C++ ต้องมีองค์ประกอบดังนี้
-    * [รายละเอียดเกี่ยวกับคลาส](https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm)    
+    ในการเขียนคลาสในภาษา C++ ต้องมีองค์ประกอบดังนี้        
     * Constructor คือ ฟังก์ชันที่ชื่อเดียวกันกับคลาส มีหน้าที่กำหนดค่าเริ่มต้นให้กับ Attributes
     * Members (Attributes, Methods) คือสมาชิกในคลาส โดยมีสองแบบ คือ แอดทริบิวส์ หรือตัวแปรในคลาส กับ เมดธอท คือฟังก์ชันที่ใช้ทำงานในคลาส
     * Destructor คือต้วล้างหน่วยความจำของคลาส โดยมี ~ นำหน้าคลาส สัญลักษณ์ ~ ได้มาจากการกด Shift + ตัวเปลี่ยนภาษา ค้างไว้
+    * [รายละเอียดเกี่ยวกับคลาส](https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm)
     * [Class access modifiers](https://www.tutorialspoint.com/cplusplus/cpp_class_access_modifiers.htm)
     * [Inheritance](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
     * [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm)
