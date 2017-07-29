@@ -47,7 +47,7 @@
 1. [การจัดเก็บข้อความในรูปแบบ Char[] / String](https://github.com/java2017/Programming-Contest/blob/master/codes/CharString.cpp)
 1. [การจัดเก็บข้อความใน Array](https://github.com/java2017/Programming-Contest/blob/master/codes/ArrayString.cpp) and [Data1](https://github.com/java2017/Programming-Contest/blob/master/codes/data1.txt)
 1. [การจัดเก็บข้อความใน Vector](https://github.com/java2017/Programming-Contest/blob/master/codes/VectorString.cpp)
-1. [Matrix manipulation](https://www.cs.upc.edu/~jordicf/Teaching/programming/pdf4/IP10_Matrices-4slides.pdf)
+1. [Matrix manipulation](https://www.cs.upc.edu/~jordicf/Teaching/programming/pdf4/IP10_Matrices-4slides.pdf) [backup link](https://github.com/java2017/Programming-Contest/blob/master/codes/IP10_Matrices-4slides.pdf)
 1. [การอ่านไฟล์ Input txt](https://github.com/java2017/Programming-Contest/blob/master/codes/StringFile.cpp)
 
 ###### ครั้งที่ 3 วันที่ 23 กรกฏาคม 2560
