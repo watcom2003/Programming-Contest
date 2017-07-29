@@ -50,6 +50,12 @@
 1. [Matrix manipulation](https://www.cs.upc.edu/~jordicf/Teaching/programming/pdf4/IP10_Matrices-4slides.pdf) and [backup link](https://github.com/java2017/Programming-Contest/blob/master/codes/IP10_Matrices-4slides.pdf)
 1. [การอ่านไฟล์ Data1.txt](https://github.com/java2017/Programming-Contest/blob/master/codes/ReadFile.cpp)
 
+###### แบบฝึกหัดครั้งที่ 2
+1. จงจัดเก็บรายชื่อเพื่อนนักเรียนทั้งหมด
+1. จงจัดเก็บข้อมูลเมทริกซ์ในอะเรย์ ขนาด 3 x 3
+1. จงเพิ่ม / ลด ขนาดของเวกเตอร์
+1. จงใช้เวกเตอร์เพื่อจัดเก็บเมทริกซ์
+
 ###### ครั้งที่ 3 วันที่ 23 กรกฏาคม 2560
 1. [C++ STL](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp9_STL.html)
 1. [Data Structure#1](http://cplusplus.happycodings.com/data-structures/)
