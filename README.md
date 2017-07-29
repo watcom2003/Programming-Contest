@@ -43,8 +43,10 @@
     * จงจัดเก็บชื่อของเราเองใน Array char ขนาด 40 ตัว แล้วเปลื่ยนเป็นชื่อเพื่อนโดยใช้ Pointer ในการเปลี่ยน
 1. [Pointer to Pointer](https://www.codeproject.com/Articles/4894/Pointer-to-Pointer-and-Reference-to-Pointer)
 
-###### ครั้งที่ 2 วันที่ 16 กรกฏาคม 2560
+###### ครั้งที่ 2 วันที่ 30 กรกฏาคม 2560
 1. [การจัดเก็บข้อความในรูปแบบ Char[] / String](https://github.com/java2017/Programming-Contest/blob/master/codes/CharString.cpp)
+1. [การจัดเก็บข้อความใน Array](url)
+1. [การจัดเก็บข้อความใน Vector(url)
 1. [การอ่านไฟล์ Input txt](https://github.com/java2017/Programming-Contest/blob/master/codes/StringFile.cpp)
 
 ###### ครั้งที่ 3 วันที่ 23 กรกฏาคม 2560
