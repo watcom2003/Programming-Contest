@@ -15,7 +15,7 @@
 1. [Art of Computer Programming Vol.3](http://www.kcats.org/csci/464/doc/knuth/fascicles/fasc3a.pdf)
 1. [Art of Computer Programming Vol.4](https://users.dcc.uchile.cl/~nbaloian/cc3001-02/Libros/Algoritmos%20y%20Estructura%20de%20Datos/The%20Art%20of%20Computer%20Programming%20Vol.4A%20-%20Combinatorial%20Algor.pdf)
 ##### Courses
-/*###### ครั้งที่ 1 วันที่ 9 กรกฏาคม 2560
+<!###### ครั้งที่ 1 วันที่ 9 กรกฏาคม 2560
 1. [การเขียนโปรแกรมแบบ OOP (Object Oriented Programming](https://github.com/java2017/Programming-Contest/blob/master/codes/Sample1.cpp)
     ในการเขียนคลาสในภาษา C++ ต้องมีองค์ประกอบดังนี้        
     * Constructor คือ ฟังก์ชันที่ชื่อเดียวกันกับคลาส มีหน้าที่กำหนดค่าเริ่มต้นให้กับ Attributes
@@ -42,7 +42,7 @@
     * จงพิมพ์จำนวนเฉพาะ โดยใช้ Pointer อ้างอิงตำแหน่ง [ตัวอย่างการตรวจสอบ Prime number](https://www.programiz.com/cpp-programming/examples/prime-function)
     * จงจัดเก็บชื่อของเราเองใน Array char ขนาด 40 ตัว แล้วเปลื่ยนเป็นชื่อเพื่อนโดยใช้ Pointer ในการเปลี่ยน
 1. [Pointer to Pointer](https://www.codeproject.com/Articles/4894/Pointer-to-Pointer-and-Reference-to-Pointer)
-*/
+>
 ###### ครั้งที่ 2 วันที่ 30 กรกฏาคม 2560
 1. [การจัดเก็บข้อความในรูปแบบ Char[] / String](https://github.com/java2017/Programming-Contest/blob/master/codes/CharString.cpp)
 1. [การจัดเก็บข้อความใน Array](https://github.com/java2017/Programming-Contest/blob/master/codes/ArrayString.cpp) and [Data1](https://github.com/java2017/Programming-Contest/blob/master/codes/data1.txt)
