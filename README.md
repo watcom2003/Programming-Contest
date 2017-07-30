@@ -57,7 +57,7 @@
 1. [Hex String](http://timmurphy.org/2013/02/10/converting-a-hex-string-to-an-integer-in-c/)
 1. [การอ่านไฟล์ Data1.txt](https://github.com/java2017/Programming-Contest/blob/master/codes/ReadFile.cpp)
 1. [Parsing Your Input and Formatting Your Output in C++](https://community.topcoder.com/tc?module=Static&d1=features&d2=112106)
-
+1. [Big Int problems](https://www.quora.com/What-tricks-have-you-made-to-deal-large-numbers-like-10-100-in-competitive-programming)
 ###### แบบฝึกหัดครั้งที่ 2
 1. จงจัดเก็บรายชื่อเพื่อนนักเรียนทั้งหมด
 1. จงจัดเก็บข้อมูลเมทริกซ์ในอะเรย์ ขนาด 3 x 3
