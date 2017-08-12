@@ -51,7 +51,7 @@
 1. [Converting Strings to Numbers](http://www.geeksforgeeks.org/converting-strings-numbers-cc/)
 1. [String to number](http://www.cplusplus.com/reference/string/stoi/)
 1. [Upper Case & Lower Case](https://math-linux.com/c/faq-c/faq-c-stl/article/how-to-convert-string-to-lower-case-or-upper-case-in-c)
-1. [Matrix manipulation](https://www.cs.upc.edu/~jordicf/Teaching/programming/pdf4/IP10_Matrices-4slides.pdf) and [backup link](https://github.com/java2017/Programming-Contest/blob/master/codes/IP10_Matrices-4slides.pdf)
+1. [Matrix manipulation](https://www.cs.upc.edu/~jordicf/Teaching/programming/pdf4/IP10_Matrices-4slides.pdf) and [backup link](https://github.com/java2017/Programminghttps://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)-Contest/b(https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)lob/master/codes/IP10_Matrices-4slides.pdf)
 1. [Binary String](http://avidinsight.uk/2015/02/convert-a-number-to-a-binary-string-and-back-in-cpp/)
 1. [Using bitset](http://www.cplusplus.com/forum/general/182327/)
 1. [Hex String](http://timmurphy.org/2013/02/10/converting-a-hex-string-to-an-integer-in-c/)
@@ -66,6 +66,7 @@
 1. จงใช้เวกเตอร์เพื่อจัดเก็บเมทริกซ์
 
 ###### ครั้งที่ 3 วันที่ 13 สิงหาคม 2560 (เรียนทั้งวัน)
+1. [Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/) [ Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
 1. [C++ STL](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp9_STL.html)
 1. [Data Structure#1](http://cplusplus.happycodings.com/data-structures/)
 1. [Data Structure#2](http://www.sourcetricks.com/p/data-structures-using-c.html#.WWCXtYjyhPa)
