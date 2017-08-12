@@ -31,7 +31,7 @@
 1. [Pointers in details](https://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html#zz-2)
     * [Pointer Usage](https://www.codeproject.com/Articles/11560/Pointers-Usage-in-C-Beginners-to-Advanced) / [Source Codes](https://github.com/java2017/Programming-Contest/tree/master/codes/pointer)
     * [จงทำ Quiz เรื่อง Pointer](http://digital.cs.usu.edu/~bugs/quizzes/pointers.html)
-    * การเขียน่ * หน้าตัวแปร จะทำให้ตัวแปรนั้นเพียงตัวเดียวเป็น Pointer เช่น int* i,j;      i เป็น pointer แบบ int แต่ j เป็น int
+    * การเขียน * หน้าตัวแปร จะทำให้ตัวแปรนั้นเพียงตัวเดียวเป็น Pointer เช่น int* i,j;      i เป็น pointer แบบ int แต่ j เป็น int
 1. [Pointer and Array](https://www.programiz.com/cpp-programming/pointers-arrays)
 1. [จัดเก็บข้อมูลใน Array 10 ตัว โดยใช้ Pointer](https://github.com/java2017/Programming-Contest/blob/master/codes/Pointer1.cpp)
 
@@ -65,7 +65,7 @@
 1. จงเพิ่ม / ลด ขนาดของเวกเตอร์
 1. จงใช้เวกเตอร์เพื่อจัดเก็บเมทริกซ์
 
-###### ครั้งที่ 3 วันที่ 23 กรกฏาคม 2560
+###### ครั้งที่ 3 วันที่ 13 สิงหาคม 2560 (เรียนทั้งวัน)
 1. [C++ STL](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp9_STL.html)
 1. [Data Structure#1](http://cplusplus.happycodings.com/data-structures/)
 1. [Data Structure#2](http://www.sourcetricks.com/p/data-structures-using-c.html#.WWCXtYjyhPa)
