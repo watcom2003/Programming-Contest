@@ -73,3 +73,5 @@
 1. [Data Structure#2](http://www.sourcetricks.com/p/data-structures-using-c.html#.WWCXtYjyhPa)
 1. [Complete List for Competitive Programming](http://codeforces.com/blog/entry/23054)โจ
 1. [เฉลย ICPC Pre-Contest 2017](https://www.youtube.com/playlist?list=PLn7VRmQTLR8csZ35nABZt7rtphQYIBj9e)
+1. [ตัวอย่างข้อสอบ สอวน.](http://www.posn.or.th/index.php?option=com_content&task=view&id=374&Itemid=51)
+1. 
