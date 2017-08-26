@@ -75,3 +75,7 @@
 1. [เฉลย ICPC Pre-Contest 2017](https://www.youtube.com/playlist?list=PLn7VRmQTLR8csZ35nABZt7rtphQYIBj9e)
 1. [ตัวอย่างข้อสอบ สอวน.](http://www.posn.or.th/index.php?option=com_content&task=view&id=374&Itemid=51)
  
+###### ครั้งที่ 4 วันที่ 27 สิงหาคม 2560 (เรียนทั้งวัน)
+1. [Test Case Generator](http://spojtoolkit.com/TestCaseGenerator/)
+1. [How to prepare for competitive programming ?](https://medium.com/@andreimargeloiu/how-to-prepare-for-competitive-programming-396d557e0c12)
+1. [Help for codeblocks](http://wiki.codeblocks.org/index.php/Help_plugin) *** เปิดด้วย double click ที่ file เอา check box ด้านล่างออกก่อน
