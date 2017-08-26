@@ -78,4 +78,5 @@
 ###### ครั้งที่ 4 วันที่ 27 สิงหาคม 2560 (เรียนทั้งวัน)
 1. [Test Case Generator](http://spojtoolkit.com/TestCaseGenerator/)
 1. [How to prepare for competitive programming ?](https://medium.com/@andreimargeloiu/how-to-prepare-for-competitive-programming-396d557e0c12)
-1. [Help for codeblocks](http://wiki.codeblocks.org/index.php/Help_plugin) *** เปิดด้วย double click ที่ file เอา check box ด้านล่างออกก่อน
+1. [Help for codeblocks](http://wiki.codeblocks.org/index.php/Help_plugin) ** เปิดด้วย double click ที่ file เอา check box ด้านล่างออกก่อน**
+1. [Data Science tutorials from TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
