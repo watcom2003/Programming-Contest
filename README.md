@@ -67,6 +67,7 @@
 
 ###### ครั้งที่ 3 วันที่ 13 สิงหาคม 2560 (เรียนทั้งวัน)
 1. [STL Fundamental](https://www.tutorialspoint.com/cplusplus/cpp_stl_tutorial.htm)
+1. [Container in STL](http://www.cplusplus.com/reference/set)
 1. Power up C++ with the Standard Template Library [Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/) [ Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
 1. [C++ STL](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp9_STL.html)
 1. [Data Structure#1](http://cplusplus.happycodings.com/data-structures/)
