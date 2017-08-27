@@ -48,6 +48,7 @@
 1. [การจัดเก็บข้อความใน Vector](https://github.com/java2017/Programming-Contest/blob/master/codes/VectorString.cpp)
 1. [การหาความยาว String](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 1. [String Examples](http://anaturb.net/C/string_exapm.htm)
+###### sort(a, a+n); จัดเรียง a จากน้อยไปหามาก sort(a, a+n, greater<int>()); จัดเรียง a จากมากไปหาน้อย 
 1. [Converting Strings to Numbers](http://www.geeksforgeeks.org/converting-strings-numbers-cc/)
 1. [String to number](http://www.cplusplus.com/reference/string/stoi/)
 1. [Upper Case & Lower Case](https://math-linux.com/c/faq-c/faq-c-stl/article/how-to-convert-string-to-lower-case-or-upper-case-in-c)
