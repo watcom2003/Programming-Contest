@@ -89,3 +89,8 @@
 1. [C++ tricks](http://orcunyilmaz.com/coding-c/eight-cool-c-tricks-use-programming-contest.html), [C++ Tricks from Codeforces](http://codeforces.com/blog/entry/15643)
 ###### sort(a, a+n); จัดเรียง a จากน้อยไปหามาก sort(a, a+n, greater\<int>()); จัดเรียง a จากมากไปหาน้อย 
 1. [Sort Array](https://github.com/java2017/Programming-Contest/blob/master/codes/sortArray1.cpp)
+
+###### ครั้งที่ 5 วันที่ 10 กันยายน 2560 (เรียนครึ่งวันปกติ)
+###### ศึกษา Algorithm ที่สำคัญ ได้แก่
+1. [Greedy Algorithm]()
+1. [Tutorial for Dynamic Programming](https://www.codechef.com/wiki/tutorial-dynamic-programming)
