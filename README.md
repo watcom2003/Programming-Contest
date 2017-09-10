@@ -92,5 +92,5 @@
 
 ###### ครั้งที่ 5 วันที่ 10 กันยายน 2560 (เรียนครึ่งวันปกติ)
 ###### ศึกษา Algorithm ที่สำคัญ ได้แก่
-1. [Greedy Algorithm]()
+1. [Greedy Algorithm](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 1. [Tutorial for Dynamic Programming](https://www.codechef.com/wiki/tutorial-dynamic-programming)
