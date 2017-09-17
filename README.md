@@ -96,5 +96,5 @@
 1. [Tutorial for Dynamic Programming](https://www.codechef.com/wiki/tutorial-dynamic-programming)
 
 ###### ครั้งที่ 6 วันที่ 17 กันยายน 2560 (เรียนครึ่งวันปกติ)
-1.[Sort](https://github.com/java2017/Programming-Contest/blob/master/codes/sort1.cpp)
-1.[Priority Queue](https://www.hackerrank.com/topics/priority-queue)
+1. [Sort](https://github.com/java2017/Programming-Contest/blob/master/codes/sort1.cpp)
+1. [Priority Queue](https://www.hackerrank.com/topics/priority-queue)
