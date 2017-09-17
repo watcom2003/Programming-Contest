@@ -29,10 +29,16 @@ void printNode(const vector<GraphExam>& v1,set<char>& s1) {
 }
 void printPath(const vector<GraphExam>& v1, const set<char>& s1) {
     vector<GraphExam>::iterator vt;
+    GraphExam minG('x','x',99);
     for (auto ss : s1) {
+      minG.weight = 99;
       for (auto vv : v1) {
         if (vv.node1== ss)
-           cout << vv.node1 << " , " << vv.node2 << " => " << vv.weight << endl;
+           if (vv.weight <= minG.weight){
+               minG = vv;
+               cout << minG.node1 << " , " << minG.node2 << " => " << minG.weight << endl;
+           }
+
       }
     }
 }
