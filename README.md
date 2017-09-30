@@ -109,5 +109,6 @@ Number Theory
 1. [Largest K digit number divisible by X](http://www.geeksforgeeks.org/largest-k-digit-number-divisible-x/)
 1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/editorial)
 1. [Factorial of a large number](http://www.geeksforgeeks.org/factorial-large-number/)
+1. [Count trailing zeroes in factorial of a number](http://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 1. [Goldbach’s Conjecture](http://www.geeksforgeeks.org/program-for-goldbachs-conjecture-two-primes-with-given-sum/)
 
