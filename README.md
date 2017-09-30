@@ -102,4 +102,6 @@
 
 ###### ครั้งที่ 7 วันที่ 1 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
 1. [Prime number - Sieve of Eratosthenes](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
-2. [Algorithm & number theory](https://github.com/NAU-ACM/ACM-ICPC-Preparation)
+1. [Math - Long Digit](https://github.com/BedirT/Algorithms_and_DS/tree/master/Algorithms/Math)
+1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/editorial)
+1. [
