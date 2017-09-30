@@ -107,6 +107,7 @@ Number Theory
 1. [Coloring A Tree](https://www.codechef.com/SNCKEL16/problems/COLTREE)
 1. [Smallest K digit number divisible by X](http://www.geeksforgeeks.org/smallest-k-digit-number-divisible-x/)
 1. [Largest K digit number divisible by X](http://www.geeksforgeeks.org/largest-k-digit-number-divisible-x/)
+1. [Write an Efficient Method to Check if a Number is Multiple of 3](http://www.geeksforgeeks.org/write-an-efficient-method-to-check-if-a-number-is-multiple-of-3/)
 1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/editorial)
 1. [Factorial of a large number](http://www.geeksforgeeks.org/factorial-large-number/)
 1. [Count trailing zeroes in factorial of a number](http://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
