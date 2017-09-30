@@ -99,3 +99,7 @@
 1. [Sort](https://github.com/java2017/Programming-Contest/blob/master/codes/sort1.cpp)
 1. [Priority Queue](https://www.hackerrank.com/topics/priority-queue)
 1. [Priority Queue-Heap](http://www.eecs.wsu.edu/~ananth/CptS223/Lectures/heaps.pdf)
+
+###### ครั้งที่ 7 วันที่ 1 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+1. [Prime number - Sieve of Eratosthenes](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+2. [Algorithm & number theory](https://github.com/NAU-ACM/ACM-ICPC-Preparation)
