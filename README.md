@@ -101,7 +101,11 @@
 1. [Priority Queue-Heap](http://www.eecs.wsu.edu/~ananth/CptS223/Lectures/heaps.pdf)
 
 ###### ครั้งที่ 7 วันที่ 1 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+Number Theory
 1. [Prime number - Sieve of Eratosthenes](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 1. [Math - Long Digit](https://github.com/BedirT/Algorithms_and_DS/tree/master/Algorithms/Math)
+1. [Coloring A Tree](https://www.codechef.com/SNCKEL16/problems/COLTREE)
 1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/editorial)
-1. [
+1. [Factorial of a large number](http://www.geeksforgeeks.org/factorial-large-number/)
+1. [Goldbach’s Conjecture](http://www.geeksforgeeks.org/program-for-goldbachs-conjecture-two-primes-with-given-sum/)
+
