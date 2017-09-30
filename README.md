@@ -105,6 +105,8 @@ Number Theory
 1. [Prime number - Sieve of Eratosthenes](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 1. [Math - Long Digit](https://github.com/BedirT/Algorithms_and_DS/tree/master/Algorithms/Math)
 1. [Coloring A Tree](https://www.codechef.com/SNCKEL16/problems/COLTREE)
+1. [Smallest K digit number divisible by X](http://www.geeksforgeeks.org/smallest-k-digit-number-divisible-x/)
+1. [Largest K digit number divisible by X](http://www.geeksforgeeks.org/largest-k-digit-number-divisible-x/)
 1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/editorial)
 1. [Factorial of a large number](http://www.geeksforgeeks.org/factorial-large-number/)
 1. [Goldbach’s Conjecture](http://www.geeksforgeeks.org/program-for-goldbachs-conjecture-two-primes-with-given-sum/)
