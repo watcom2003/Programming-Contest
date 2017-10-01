@@ -102,6 +102,7 @@
 
 ###### ครั้งที่ 7 วันที่ 1 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
 Number Theory
+1. [Power Mod Checking](https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/powermod.html)
 1. [Prime number - Sieve of Eratosthenes](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 1. [Math - Long Digit](https://github.com/BedirT/Algorithms_and_DS/tree/master/Algorithms/Math)
 1. [Coloring A Tree](https://www.codechef.com/SNCKEL16/problems/COLTREE)
