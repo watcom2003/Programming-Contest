@@ -117,3 +117,6 @@ Number Theory
 ###### ครั้งที่ 8 วันที่ 7 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
 1. [Depth First Search Traversal](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
 1. [Breath First Search Traversal](http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
+1. [C code exercises](https://helloacm.com/tag/c-coding-exercise/)
+1. [ACM-ICPC World Finals in Phuket, Thailand ](http://icpcnews.tumblr.com/post/144749892264/video-solutions-and-judge-explanations-for-2016)
+1. [ICPCNews youtube channel](https://www.youtube.com/user/ICPCNews)
