@@ -114,3 +114,6 @@ Number Theory
 1. [Count trailing zeroes in factorial of a number](http://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 1. [Goldbach’s Conjecture](http://www.geeksforgeeks.org/program-for-goldbachs-conjecture-two-primes-with-given-sum/)
 
+###### ครั้งที่ 8 วันที่ 7 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+1. [Depth First Search Traversal](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
+1. [Breath First Search Traversal](http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
