@@ -123,6 +123,7 @@ Number Theory
 
 
 ###### ครั้งที่ 9 วันที่ 14 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+1. [String manipulation](http://www.cplusplus.com/reference/string/string/)
 1. [Quick Sort in array-STL](http://www.cplusplus.com/reference/cstdlib/qsort/)
 1. [Quick Sort in vector-STL](http://www.cplusplus.com/forum/general/170827/)
 1. [Binary Search-STL](http://www.cplusplus.com/reference/algorithm/binary_search/)
