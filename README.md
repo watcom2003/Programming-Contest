@@ -123,6 +123,8 @@ Number Theory
 
 
 ###### ครั้งที่ 9 วันที่ 14 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+1. [Quick Sort in array-STL](http://www.cplusplus.com/reference/cstdlib/qsort/)
+1. [Quick Sort in vector-STL](http://www.cplusplus.com/forum/general/170827/)
 1. [Binary Search-STL](http://www.cplusplus.com/reference/algorithm/binary_search/)
 1. [Binary Search-STL indexing](http://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/)
 1. [Data Structures](http://www.geeksforgeeks.org/data-structures/)
