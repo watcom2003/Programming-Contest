@@ -120,3 +120,12 @@ Number Theory
 1. [C code exercises](https://helloacm.com/tag/c-coding-exercise/)
 1. [ACM-ICPC World Finals in Phuket, Thailand ](http://icpcnews.tumblr.com/post/144749892264/video-solutions-and-judge-explanations-for-2016)
 1. [ICPCNews youtube channel](https://www.youtube.com/user/ICPCNews)
+
+
+###### ครั้งที่ 9 วันที่ 14 ตุลาคม 2560 (เรียนครึ่งวันปกติ)
+1. [Binary Search-STL](http://www.cplusplus.com/reference/algorithm/binary_search/)
+1. [Binary Search-STL indexing](http://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/)
+1. [Data Structures](http://www.geeksforgeeks.org/data-structures/)
+1. [Problems & Solution](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
+1. [Dynamic Programming and etc.](http://www.techiedelight.com/Category/dynamic-programming/)
+1. [Backtracking Algorithms](http://www.geeksforgeeks.org/backtracking-algorithms/)
