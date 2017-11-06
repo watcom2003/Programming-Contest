@@ -132,3 +132,6 @@ Number Theory
 1. [Problems & Solution](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
 1. [Dynamic Programming and etc.](http://www.techiedelight.com/Category/dynamic-programming/)
 1. [Backtracking Algorithms](http://www.geeksforgeeks.org/backtracking-algorithms/)
+
+###### ครั้งที่ 10 วันที่ 5 พฤศจิกายน 2560 (เรียนครึ่งวันปกติ)
+1. [กำหนดหน่วยความจำ Stack เพิ่มสำหรับจัดเก็บ Array](http://codeforces.com/blog/entry/15874)
